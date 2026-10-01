@@ -9,21 +9,15 @@ Cuento con más de 8 años de experiencia gestionando clientes críticos y optim
 
 ### Desarrollo Frontend & Backend
 
-![JavaScript](https://shields.io)
-
-![Python](https://shields.io)
-
-![HTML5](https://shields.io)
-
-![CSS3](https://shields.io)
-
+* `JavaScript` — Lógica, interactividad y frameworks Front-end.
+* `Python` — Desarrollo Back-end, scripts y automatización.
+* `HTML5` — Estructuración semántica de páginas web.
+* `CSS3` — Estilos, layouts modernos (Flexbox/Grid) y diseño adaptable.
 
 ### Redes & Datos
 
-![Cisco](https://shields.io)
-
-![Excel](https://shields.io)
-
+* `Cisco Certified` — Fundamentos de TI, soporte y arquitectura de redes.
+* `Microsoft Excel Avanzado` — Análisis de datos, reportes y gestión operativa.
 
 ## 📜 Certificaciones Destacadas
 * **Diseño Web Adaptable (Responsive Web Design)** — freeCodeCamp

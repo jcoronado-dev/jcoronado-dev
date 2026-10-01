@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # ¡Hola! Soy Juan Coronado  👋
 
@@ -10,12 +9,17 @@ Cuento con más de 8 años de experiencia gestionando clientes críticos y optim
 
 ### Desarrollo Frontend & Backend
 ![JavaScript](https://shields.io)
+
 ![Python](https://shields.io)
+
 ![HTML5](https://shields.io)
+
 ![CSS3](https://shields.io)
+
 
 ### Redes & Datos
 ![Cisco](https://shields.io)
+
 ![Excel](https://shields.io)
 
 ## 📜 Certificaciones Destacadas

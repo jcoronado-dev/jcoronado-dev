@@ -8,6 +8,7 @@ Cuento con más de 8 años de experiencia gestionando clientes críticos y optim
 ## 🚀 Tecnologías y Herramientas
 
 ### Desarrollo Frontend & Backend
+
 ![JavaScript](https://shields.io)
 
 ![Python](https://shields.io)
@@ -18,9 +19,11 @@ Cuento con más de 8 años de experiencia gestionando clientes críticos y optim
 
 
 ### Redes & Datos
+
 ![Cisco](https://shields.io)
 
 ![Excel](https://shields.io)
+
 
 ## 📜 Certificaciones Destacadas
 * **Diseño Web Adaptable (Responsive Web Design)** — freeCodeCamp
